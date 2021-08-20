@@ -24,4 +24,4 @@ Change all placeholders at the `config.json` file:
 
 After that, run `node index.js` to start your bot.
 ## Discord server
-- [Discord](https://withwin.in/dbd)
+- [Discord](https://discord.gg/5UaHGVnEMW)
